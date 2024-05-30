@@ -1,1 +1,2 @@
-# Comparative-Analysis-of-Temperature-Controllers-for-HVAC-Systems
+# Comparative Analysis of Temperature Controllers for HVAC Systems
+This project investigates the implementation and evaluation of three distinct methods for controlling the temperature in a single-zone building: Multi-Layer Perceptron (MLP), Proportional-Integral-Derivative (PID) control, and Long Short-Term Memory (LSTM) neural network-based control. Each method provides a unique approach to managing the dynamic and often unpredictable nature of indoor climate regulation. This study is part of the Neurofuzzy Control course for the 9th semester of the Electrical and Computer Engineering (ECE) program at the National Technical University of Athens (NTUA).
